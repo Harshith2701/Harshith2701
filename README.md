@@ -1,4 +1,4 @@
-# 🔮 **Data Engineering Journey** 🚀
+# 🔮 **Data Engineer** 🚀
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B95FF&width=435&lines=Data+Engineer+%7C+ETL+Specialist;Building+Data+Pipelines;Learning+%26+Growing+Daily" alt="Typing Animation" />
